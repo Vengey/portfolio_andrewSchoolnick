@@ -1,0 +1,9 @@
+http://www.learningprocessing.com/examples/chapter-16/example-16-11/
+
+
+
+Detect pixel color at landed position
+
+If color == waterColor
+
+Add stroke, reset ball position
