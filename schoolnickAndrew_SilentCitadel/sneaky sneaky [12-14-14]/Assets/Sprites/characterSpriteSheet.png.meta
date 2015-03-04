@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: d2cadca50e3e8e34baed9796d9a87ac0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: characterSpriteSheet_0
+    21300002: characterSpriteSheet_1
+    21300004: characterSpriteSheet_2
+    21300006: characterSpriteSheet_3
+    21300008: characterSpriteSheet_4
+    21300010: characterSpriteSheet_5
+    21300012: characterSpriteSheet_6
+    21300014: characterSpriteSheet_7
+    21300016: characterSpriteSheet_8
+    21300018: characterSpriteSheet_9
+    21300020: characterSpriteSheet_10
+    21300022: characterSpriteSheet_11
+    21300024: characterSpriteSheet_12
+    21300026: characterSpriteSheet_13
+    21300028: characterSpriteSheet_14
+    21300030: characterSpriteSheet_15
+    21300032: characterSpriteSheet_16
+    21300034: characterSpriteSheet_17
+    21300036: characterSpriteSheet_18
+    21300038: characterSpriteSheet_19
+    21300040: characterSpriteSheet_20
+    21300042: characterSpriteSheet_21
+    21300044: characterSpriteSheet_22
+    21300046: characterSpriteSheet_23
+    21300048: characterSpriteSheet_24
+    21300050: characterSpriteSheet_25
+    21300052: characterSpriteSheet_26
+    21300054: characterSpriteSheet_27
+    21300056: characterSpriteSheet_28
+    21300058: characterSpriteSheet_29
+    21300060: characterSpriteSheet_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: characterSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 446
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 451
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 449
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 446
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 451
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 374
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 374
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 374
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 297
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 297
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 297
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 215
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 214
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 214
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 133
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 132
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 133
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 51
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 51
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 51
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 51
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 51
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 297
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 297
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: characterSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 187
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

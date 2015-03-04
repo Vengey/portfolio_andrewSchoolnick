@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: c5e5e58839c424744a838c1820dcdf27
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: archerEnemy_0
+    21300002: archerEnemy_1
+    21300004: archerEnemy_2
+    21300006: archerEnemy_3
+    21300008: archerEnemy_4
+    21300010: archerEnemy_5
+    21300012: archerEnemy_6
+    21300014: archerEnemy_7
+    21300016: archerEnemy_8
+    21300018: archerEnemy_9
+    21300020: archerEnemy_10
+    21300022: archerEnemy_11
+    21300024: archerEnemy_12
+    21300026: archerEnemy_13
+    21300028: archerEnemy_14
+    21300030: archerEnemy_15
+    21300032: archerEnemy_16
+    21300034: archerEnemy_17
+    21300036: archerEnemy_18
+    21300038: archerEnemy_19
+    21300040: archerEnemy_20
+    21300042: archerEnemy_21
+    21300044: archerEnemy_22
+    21300046: archerEnemy_23
+    21300048: archerEnemy_24
+    21300050: archerEnemy_25
+    21300052: archerEnemy_26
+    21300054: archerEnemy_27
+    21300056: archerEnemy_28
+    21300058: archerEnemy_29
+    21300060: archerEnemy_30
+    21300062: archerEnemy_31
+    21300064: archerEnemy_32
+    21300066: archerEnemy_33
+    21300068: archerEnemy_34
+    21300070: archerEnemy_35
+    21300072: archerEnemy_36
+    21300074: archerEnemy_37
+    21300076: archerEnemy_38
+    21300078: archerEnemy_39
+    21300080: archerEnemy_40
+    21300082: archerEnemy_41
+    21300084: archerEnemy_42
+    21300086: archerEnemy_43
+    21300088: archerEnemy_44
+    21300090: archerEnemy_45
+    21300092: archerEnemy_46
+    21300094: archerEnemy_47
+    21300096: archerEnemy_48
+    21300098: archerEnemy_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: archerEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 377
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 378
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 379
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 379
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 378
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 378
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 378
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 378
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 378
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 289
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 291
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 291
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 290
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 290
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 290
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 290
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 290
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 199
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 199
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 198
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 198
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 198
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 198
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 198
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 198
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 198
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_28
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 198
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_29
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 198
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 198
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 107
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 107
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 106
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 106
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 106
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 106
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_38
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 106
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_39
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 106
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 106
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_41
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 106
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 106
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_43
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 106
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 24
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: archerEnemy_49
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 21
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

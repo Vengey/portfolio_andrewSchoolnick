@@ -1,0 +1,9 @@
+0 = Pit
+1 = Platform
+2 = Switch To Activate End
+3 = Not Activated End
+4 = End
+5 = Player
+6 = Bridge NOT ACTIVE
+7 = Bridge ACTIVE
+8 = Bridge Switch

@@ -1,0 +1,45 @@
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.exe.config
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.exe
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.pdb
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.csprojResolveAssemblyReference.cache
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\MainWindow.baml
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\MainWindow.g.cs
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\App.g.cs
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame_MarkupCompile.cache
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.g.resources
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.Properties.Resources.resources
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.csproj.GenerateResource.Cache
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.exe
+H:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.pdb
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.exe.config
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.exe
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.pdb
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.exe
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.pdb
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.csprojResolveAssemblyReference.cache
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\MainWindow.baml
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\MainWindow.g.cs
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\App.g.cs
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame_MarkupCompile.cache
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.g.resources
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.Properties.Resources.resources
+J:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.csproj.GenerateResource.Cache
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.exe.config
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.exe
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.pdb
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.csprojResolveAssemblyReference.cache
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\MainWindow.baml
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\MainWindow.g.cs
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\App.g.cs
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame_MarkupCompile.cache
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.g.resources
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.Properties.Resources.resources
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.csproj.GenerateResource.Cache
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.exe
+F:\RIT CLASS FOLDERS\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.pdb
+F:\RIT CLASS FOLDERS\Freshman Year\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.exe.config
+F:\RIT CLASS FOLDERS\Freshman Year\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.exe
+F:\RIT CLASS FOLDERS\Freshman Year\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.pdb
+H:\RIT CLASS FOLDERS\Freshman Year\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\bin\Debug\LightGame.exe.config
+H:\RIT CLASS FOLDERS\Freshman Year\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.exe
+H:\RIT CLASS FOLDERS\Freshman Year\Interactive D&A 2\PROGRAMS\Projects\schoolnick_Project2_LightGame\LightGame\LightGame\obj\Debug\LightGame.pdb
